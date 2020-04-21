@@ -1,0 +1,29 @@
+header{
+    background: url("img/Texturas_0963.jpg");
+     border:none;
+   
+}
+header h1{
+    margin-left: 200px;
+    text-align: center;
+    font-family: cursive;
+    font-size: large;
+    
+    font-size: 2.5em;
+    text-shadow: #DDD 0px 2px 1px,
+        #DDD 2px 4px 2px,
+        #DDD 4px 6px 3px,
+        #DDD 6px 2px 4px;
+       
+}
+header h1{
+    color: black;
+    font-size: 2.2em;
+    text-shadow: #DDD 0px 2px 1px,
+        #DDD 2px 4px 2px,
+        #DDD 4px 6px 3px,
+        #DDD 6px 2px 4px;
+    }
+iframe{
+    border:0;
+}
